@@ -15,7 +15,7 @@ Resume Matcher is a Streamlit application that allows users to upload resumes an
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/resume-matcher.git
+    git clone https://github.com/krishnaSujatha/resume_matcher.git
     cd resume-matcher
     ```
 
